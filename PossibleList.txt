@@ -1,0 +1,215 @@
+ViewDirectionX ---
+ViewDirectionY ---
+velocityX ---
+velocityY ---
+velocityV ---
+DeltaYaw
+DeltaPitch
+VictimYaw
+VictimPitch
+View Trend
+Distance
+Position
+IsCrouching  --- Ducking
+JumpRecently ---
+Airborne ---
+SeenRecently
+Health ---
+Weapon ---
+ClipAmmoLeft --- AmmoInMagazine
+ReserveAmmo --- AmmoReserve
+IsScoped ---
+Weapon_zoom --- ZoomLevel
+Firing
+Hit Group --- PlayerHurt
+Headshot Accuracy
+Spray Accuracy
+Crosshair placement - How far is the attacker’s crosshair from the actual enemy vs when they first saw them
+ReactionTime - Time to damage time measures the average time it took you from seeing the enemy player to first doing damage to them
+Attacker see any part of the victim’s body or gun
+Spotted
+If a team mate has seen the victim and how long ago
+If the victim has made events that created sound and how long ago (e.g. foot steps, jumping, etc)
+Flashleft
+SteamID64
+Ping
+m_flSimulationTime 
+Button interval distribution
+Avg Perfect Jump History
+HE relative location
+Flash relative location
+Smoke relative location
+Decoy relative location
+molotov  relative location
+incgrenade  relative location
+Smokes efficiency - was enemies near the area that was smoked off
+player_team
+IsWallBang
+Map Name
+Money
+Bullet decal 
+eyeangles
+lbyDelta - m_flLowerBodyYawTarget - eyeAngles.yaw
+sound events
+armor
+assister
+attacker
+attackerblind
+bullet_impact
+decoy_detonate
+decoy_firing
+decoy_started
+distance
+dmg_armor
+dmg_health
+door_moving
+flashbang_detonate
+grenade_thrown
+headshot
+health
+hegrenade_detonate
+hitgroup
+IEventPlayerBlind
+inferno_expire
+inferno_extinguish
+inspect_weapon
+m_afPhysicsFlags
+m_aimPunchAngle
+m_aimPunchAngleVel
+m_angEyeAngles[0]
+m_angEyeAngles[1]
+m_angRotation
+m_ArmorValue
+m_bBurstMode
+m_bDucked
+m_bDucking
+m_bDuckOverride
+m_bHasHeavyArmor
+m_bHasHelmet
+m_bHasMovedSinceSpawn
+m_bInDuckJump
+m_bIsDefusing
+m_bIsGrabbingHostage
+m_bIsHoldingLookAtWeapon
+m_bIsLookingAtWeapon
+m_bIsRescuing
+m_bIsScoped
+m_bIsWalking
+m_bReloadVisuallyComplete
+m_bResumeZoom
+m_bSilencerOn
+m_bSpotted
+m_bStrafing
+m_bWaitForNoAttack
+m_bWearingSuit
+m_cellX
+m_cellY
+m_cellZ
+m_fAccuracyPenalty
+m_fFlags
+m_fLastShotTime
+m_flDetectedByEnemySensorTime
+m_flDoneSwitchingSilencer
+m_flDuckAmount
+m_flDuckSpeed
+m_flFallVelocity
+m_flFlashDuration
+m_flFlashMaxAlpha
+m_flFOVRate
+m_flFOVTime
+m_flGroundAccelLinearFracLastTime
+m_flLastDuckTime
+m_flLastMadeNoiseTime
+m_flLowerBodyYawTarget
+m_flMaxspeed
+m_flNextAttack
+m_flNextPrimaryAttack
+m_flNextSecondaryAttack
+m_flRecoilIndex
+m_flShadowCastDistance
+m_flSimulationTime
+m_flStamina
+m_flThirdpersonRecoil
+m_flTimeWeaponIdle
+m_flVelocityModifier
+m_fMolotovDamageTime
+m_fMolotovUseTime
+m_hCarriedHostage
+m_hCarriedHostageProp
+m_hConstraintEntity
+m_hGroundEntity
+m_hPlayerPing
+m_hPostProcessCtrl
+m_hViewModel
+m_hZoomOwner
+m_iAccount
+m_iAddonBits
+m_iBlockingUseActionInProgress
+m_iBurstShotsRemaining
+m_iClip1
+m_iClip2
+m_iDeathPostEffect
+m_iFOV
+m_iFOVStart
+m_iHealth
+m_iIronSightMode
+m_iItemDefinitionIndex
+m_iMoveState
+m_iNumEmptyAttacks
+m_iNumRoundKills
+m_iNumRoundKillsHeadshots
+m_iPlayerState
+m_iPrimaryAddon
+m_iPrimaryAmmoType
+m_iPrimaryReserveAmmoCount
+m_iSecondaryAddon
+m_iSecondaryAmmoType
+m_iSecondaryReserveAmmoCount
+m_iShotsFired
+m_iState
+m_iTeamNum
+m_iWeaponModule
+m_iWeaponOrigin
+m_nNextThinkTick
+m_nWaterLevel
+m_totalHitsOnServer
+m_unCurrentEquipmentValue
+m_unRoundStartEquipmentValue
+m_vecBaseVelocity
+m_vecLadderNormal
+m_vecOrigin
+m_vecOrigin[2]
+m_vecVelocity[0]
+m_vecVelocity[1]
+m_vecVelocity[2]
+m_vecViewOffset[0]
+m_vecViewOffset[1]
+m_vecViewOffset[2]
+m_viewPunchAngle
+m_weaponMode
+m_zoomLevel
+molotov_detonate
+movecollide
+moveparent
+movetype
+noscope
+penetrated
+player
+player_blind
+player_falldamage
+player_footstep
+player_jump
+player_ping
+silenced
+silencer_detach
+smokegrenade_detonate
+smokegrenade_expired
+thrusmoke
+tr_player_flashbanged
+weapon
+weapon_fire
+weapon_fire_on_empty
+weapon_outofammo
+weapon_reload
+weapon_zoom ---
+weapon_zoom_rifle
